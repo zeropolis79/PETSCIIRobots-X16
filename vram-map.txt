@@ -1,0 +1,7 @@
+0:0000 - 18FF - Screen RAM for text mode
+0:2000 - B600 - Intro Grapics (payload 4)
+0:C600 - DFFF - Player Sprite Data (Payload 3)
+0:E000 - F7FF - Item Sprite Data (Payload 2)
+0:F800 - FFFF - Character Data (Payload 1)
+
+1:0000 - 9600 - Playfield graphics (Payload 5)
